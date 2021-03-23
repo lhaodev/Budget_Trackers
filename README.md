@@ -52,7 +52,7 @@ The screenshot of the Static Cache.
 #### Data Cache
 The screenshot of the DataCache.
 
-<p align="center">
+<p align="center"> 
   <img src="./public/assets/cache2.png" alt="cache2">
 </p>
 
