@@ -86,4 +86,4 @@ The link to the github repository is: https://github.com/lhaodev/Budget_Trackers
 
 ## Deployment
 
-The link to the deployed application is: 
+The link to the deployed application is: https://safe-reef-98186.herokuapp.com/
