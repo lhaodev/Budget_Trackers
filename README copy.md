@@ -66,9 +66,9 @@ The screenshot of the DataCache.
 
 * Run the application by the following instructions in the terminal
 
-    * **npm start**
+    * **node server.js**
 
-The application will be listened on localhost:3000 in your browser URL line.
+The application will be listened on localhost:3030 in your browser URL line.
 
 
 ## Technologies
@@ -78,12 +78,11 @@ The application will be listened on localhost:3000 in your browser URL line.
 * Node.js
 * Heroku
 * morgan
-* compression
 
 ## Repository
 
-The link to the github repository is: https://github.com/lhaodev/Budget_Trackers
+The link to the github repository is: https://github.com/lhaodev/fitness_tracker 
 
 ## Deployment
 
-The link to the deployed application is: 
+The link to the deployed application is: https://fast-mesa-62687.herokuapp.com/
